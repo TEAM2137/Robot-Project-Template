@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Robot-Project-Template (in project Robot-Project-Template)",
+    "file": "C:\\FTC Code\\Robot-Project-Template\\Robot-Project-Template\\build\\libs\\Robot-Project-Template.jar",
+    "extensions": [
+      "C:\\FTC Code\\Robot-Project-Template\\Robot-Project-Template\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.1-windowsx86-64.zip_9a04a977f71395a52b796706bab5e8ab\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\FTC Code\\Robot-Project-Template\\Robot-Project-Template\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
